@@ -1,0 +1,20 @@
+# Table of contents
+
+* [Welcome](README.md)
+* [Production Deployments](production-deployments.md)
+* [Availability](availability.md)
+* [Version Control](version-control/README.md)
+  * [Pull Requests](version-control/pull-requests.md)
+* [Repository Lifecycle](repository-lifecycle.md)
+* [Creating a Repository](creating-a-repository.md)
+* [Refactoring](refactoring.md)
+* [Scrum](scrum.md)
+* [Documentation](documentation/README.md)
+  * [Library](documentation/library-documentation.md)
+  * [Applications](documentation/application-documentation.md)
+  * [CLI Applications](documentation/cli-application-documentation.md)
+  * [Inline](documentation/inline.md)
+* [Definition of Ready](definition-of-ready.md)
+* [Definition of Done](definition-of-done.md)
+* [Refactoring](refactoring-1.md)
+
